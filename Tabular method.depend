@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1520414104 source:d:\programming\tabular method\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<string>
+	<sstream>
+	<string.h>
+
